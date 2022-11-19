@@ -1,0 +1,8 @@
+GET (ALL) request - 'archivoSolicitud' 
+GET (ALL) request - 'archivoSolicitud' 
+POST request - 'archivoSolicitud' - File: LyM-TP2-202220.pdf - Path: /LyM-TP2-202220_3hVkFYQ.pdf
+GET (ALL) request - 'archivoSolicitud' 
+GET (ALL) request - 'archivoSolicitud' 
+GET (ALL) request - 'archivoSolicitud' 
+GET (ALL) request - 'archivoSolicitud' 
+GET (ALL) request - 'archivoSolicitud' 
