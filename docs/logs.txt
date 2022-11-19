@@ -6,3 +6,12 @@ GET (ALL) request - 'archivoSolicitud'
 GET (ALL) request - 'archivoSolicitud' 
 GET (ALL) request - 'archivoSolicitud' 
 GET (ALL) request - 'archivoSolicitud' 
+GET (ALL) request - 'archivoSolicitud' 
+POST request - 'archivoSolicitud' - File: Laboratorio 4.pdf - Path: /Laboratorio%204.pdf
+GET (ALL) request - 'archivoSolicitud' 
+POST request - 'archivoSolicitud' - File: Laboratorio 4.pdf - Path: /Laboratorio%204.pdf
+GET (ALL) request - 'archivoSolicitud' 
+GET (ALL) request - 'archivoSolicitud' 
+GET (ALL) request - 'archivoSolicitud' 
+GET (ALL) request - 'archivoSolicitud' 
+GET (ALL) request - 'archivoSolicitud' 
