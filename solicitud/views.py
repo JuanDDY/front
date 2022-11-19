@@ -21,14 +21,15 @@ def upload(request):
 
         json_archivo = {
             "nombre": uploaded_file.name,
+            "archivo": url,
         }
 
-        # archivo_dto = al.create_archivo(json_archivo)
-        # archivo = serializers.serialize('json', [archivo_dto,])
+        archivo_dto = al.create_archivo(json_archivo)
+        archivo = serializers.serialize('json', [archivo_dto,])
+        
         f.write("POST request - 'archivoSolicitud' - File: " + uploaded_file.name + " - Path: " + url + "\n")
         f.close()
         
-
     return render(request, 'avanzo/base.html') # tiene que ser un render! por algo de seguridad de Django -> csrf_token
     # se pueden mandar variables a html! -> context
 
